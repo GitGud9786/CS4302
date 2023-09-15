@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694167932 source:e:\iut porashona\cse time\hello world\semester 03\4308\lab 1\project\210041253_t02l05_2a\main.cpp
+	<iostream>
+	"StudentInfo.h"
+	<string>
+
+1694167873 e:\iut porashona\cse time\hello world\semester 03\4308\lab 1\project\210041253_t02l05_2a\include\studentinfo.h
+	<string>
+
+1694167913 source:e:\iut porashona\cse time\hello world\semester 03\4308\lab 1\project\210041253_t02l05_2a\src\studentinfo.cpp
+	"StudentInfo.h"
+	<string>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694166574 source:e:\iut porashona\cse time\hello world\semester 03\4308\lab 1\project\210041253_t01l05_2a.cpp\main.cpp
+	<iostream>
+	"SavingsAccount.h"
+
+1694166552 e:\iut porashona\cse time\hello world\semester 03\4308\lab 1\project\210041253_t01l05_2a.cpp\include\savingsaccount.h
+
+1694166608 source:e:\iut porashona\cse time\hello world\semester 03\4308\lab 1\project\210041253_t01l05_2a.cpp\src\savingsaccount.cpp
+	<iostream>
+	"SavingsAccount.h"
+
