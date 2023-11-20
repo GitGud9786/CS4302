@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694776080 source:e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t04l06_2a\main.cpp
+	<iostream>
+	"Counter.h"
+
+1694776141 e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t04l06_2a\include\counter.h
+
+1694776142 source:e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t04l06_2a\src\counter.cpp
+	"Counter.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694776350 source:e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t02l06_2a\main.cpp
+	<iostream>
+	"Coordinate.h"
+
+1694771979 source:e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t02l06_2a\src\coordinate.cpp
+	"Coordinate.h"
+	<cmath>
+
+1694771979 e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t02l06_2a\include\coordinate.h
+

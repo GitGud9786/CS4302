@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1694773228 source:e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t03l06_2a\src\float.cpp
+	"FLOAT.h"
+
+1694773243 e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t03l06_2a\include\float.h
+
+1694773394 source:e:\iut porashona\cse time\hello world\semester 03\4302\lab 6\210041253_t03l06_2a\main.cpp
+	<iostream>
+	"FLOAT.h"
+
